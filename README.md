@@ -6,7 +6,7 @@
 
 ## Quick Start
 * Clone or download this repository
-* Go inside of directory,  `cd compose-postgres-pgadmin4`
+* Go inside of directory,  `cd docker-postgres-pgadmin4`
 * Run this command `docker-compose up -d`
 
 ## Environments
